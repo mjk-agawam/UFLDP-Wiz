@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200">
+    <!-- Background rectangle -->
+    <rect width="500" height="200" fill="#FF7F50"/>
+    
+    <!-- Main text "UFLDP" -->
+    <g transform="translate(80, 120)">
+        <text 
+            font-family="Arial Black, sans-serif" 
+            font-size="100" 
+            font-weight="bold"
+            fill="#5C3317"
+            stroke="#FFF"
+            stroke-width="2"
+            text-anchor="middle"
+            x="170">
+            UFLDP
+        </text>
+    </g>
+    
+    <!-- Subtitle -->
+    <text 
+        x="250" 
+        y="160" 
+        font-family="Courier, monospace" 
+        font-size="16" 
+        fill="#FFF" 
+        text-anchor="middle">
+        SINCE THE 1960'S, SOMEWHERE ON CAPE COD
+    </text>
+</svg> 
